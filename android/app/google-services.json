@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974755094565",
+    "project_id": "slimmers-c3e15",
+    "storage_bucket": "slimmers-c3e15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974755094565:android:21976681e81740bf4b9fcc",
+        "android_client_info": {
+          "package_name": "com.slimmersworld.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974755094565-40bj943av1pi9nakfhihdmrn56ikvsej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slimmersworld.app",
+            "certificate_hash": "13f0ac7ad32d6f4f70292e042733ccbe1ef29181"
+          }
+        },
+        {
+          "client_id": "974755094565-m56be107lhd5hgb0199untcnnsc1643v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8B2nc1JnPPQ_nQtr_T_6EuUCgmNz2tks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974755094565-m56be107lhd5hgb0199untcnnsc1643v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
